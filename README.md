@@ -43,3 +43,6 @@ This game was made on python3, earlier versions may not work.
 Make sure to install Pygame.
 
 Then run the python file and enjoy!
+
+## Credits
+The font PressStart2P was not made by me. The license for the font is included in the fonts folder.
